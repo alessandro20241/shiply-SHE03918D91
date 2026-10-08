@@ -1,0 +1,47 @@
+{
+  "SHE03918D91": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Victor Kraimann, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Torsten Gries, Am Bahnhof 3, 31860 Emmerthal, Deutschland",
+    "price": "9.700,00 €",
+    "description": "Hersteller: Harley-Davidson<br>Typ: Low Rider FXLRS Low Rider S 117 <br>Fahrgestelnummer: 1HD1YXZ21PB048954 <br>Erstzulassung: 03/2023<br> TÜV: 07/2027 <br> KM laut Vorbesitzer: 11.458 km <br> Leistung: 77 kW (105 PS)<br>Hubraum: 1.923 cm³<br>  <br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Deutsche Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Torsten Gries<br>Am Bahnhof 3<br>31860 Emmerthal<br>Deutschland<br>Telefon: +49 1725145597",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "08.10.2026",
+    "deliveryDate": "20.10.2026",
+    "pickup": {
+      "street": "Am Brink 8",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Am Bahnhof 3",
+      "postal_code": "31860",
+      "city": "Emmerthal",
+      "country": "Deutschland",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
